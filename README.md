@@ -138,7 +138,6 @@ I am an enthusiastic technology student bringing strong problem-solving and crit
 
 </div>
 
-> **Note:** Don't forget to replace `imtheonelol` in the URL above with your actual GitHub username!
 
 <br>
 
