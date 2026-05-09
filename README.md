@@ -18,7 +18,7 @@
 
 <br>
 
-### > `whoami /details`
+### > `My details`
 I am an enthusiastic technology student bringing strong problem-solving and critical thinking abilities to the table. I'm an effective communicator with a knack for teamwork and collaboration. As a quick learner, I am extremely eager to apply academic knowledge to practical scenarios in IT, and I am ready to contribute and grow in a supportive and innovative environment.
 
 </div>
