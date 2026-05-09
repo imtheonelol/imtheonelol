@@ -1,4 +1,24 @@
-mi /details`
+<div align="center">
+
+<!-- Replace the URL below with your actual profile picture link! -->
+<img src="https://placehold.co/200x200/0dcaf0/000000?text=Replace+With+Your+Picture" width="180" height="180" style="border-radius: 50%; border: 4px solid #0dcaf0;" alt="Richmond E. Arconado">
+
+# `sys.init("Richmond_E._Arconado")` 🚀
+
+**Information Technology Student | Developer | Problem Solver** 📍 San Pedro, Laguna, Philippines | 🎂 Born: Oct 5, 2003
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0dcaf0?style=for-the-badge&logo=Web&logoColor=black)](https://portfolio-l2tt.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:richmondarconado0@gmail.com)
+
+<br>
+
+<!-- Long Gundam GIF! -->
+<img src="https://media1.tenor.com/m/F_q5HHTl5n4AAAAC/gundam-rx-78-2.gif" width="100%" height="300" style="object-fit: cover; border-radius: 10px;" alt="Gundam GIF">
+
+<br>
+
+### > `whoami /details`
 I am an enthusiastic technology student bringing strong problem-solving and critical thinking abilities to the table. I'm an effective communicator with a knack for teamwork and collaboration. As a quick learner, I am extremely eager to apply academic knowledge to practical scenarios in IT, and I am ready to contribute and grow in a supportive and innovative environment.
 
 </div>
@@ -121,3 +141,4 @@ I am an enthusiastic technology student bringing strong problem-solving and crit
 
 <div align="center">
   <i><p class="tech-font">System.exit(0); &copy; Richmond E. Arconado.</p></i>
+</div>
