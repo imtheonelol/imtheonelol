@@ -132,7 +132,7 @@ I am an enthusiastic technology student bringing strong problem-solving and crit
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imtheonelol&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/imtheonelol/ai-ide)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imtheonelol&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/imtheonelol)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imtheonelol&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/imtheonelol)
 
