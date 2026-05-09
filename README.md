@@ -131,8 +131,11 @@ I am an enthusiastic technology student bringing strong problem-solving and crit
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imtheonelol&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtheonelol&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imtheonelol&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/imtheonelol)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imtheonelol&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/imtheonelol)
+
 </div>
 
 > **Note:** Don't forget to replace `imtheonelol` in the URL above with your actual GitHub username!
