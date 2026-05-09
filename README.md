@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace the URL below with your actual profile picture link! -->
-<img src="https://placehold.co/200x200/0dcaf0/000000?text=Replace+With+Your+Picture" width="180" height="180" style="border-radius: 50%; border: 4px solid #0dcaf0;" alt="Richmond E. Arconado">
+<img src="image\myprofile.jpg?text=Replace+With+Your+Picture" width="180" height="180" style="border-radius: 50%; border: 4px solid #0dcaf0;" alt="Richmond E. Arconado">
 
 # `sys.init("Richmond_E._Arconado")` 🚀
 
