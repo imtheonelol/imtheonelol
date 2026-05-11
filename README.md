@@ -5,7 +5,7 @@
 
 # `sys.init("Richmond_E._Arconado")` 🚀
 
-**Information Technology Student | Developer | Problem Solver** 📍 San Pedro, Laguna, Philippines | 🎂 Born: Oct 5, 2003
+**Information Technology | Developer | Problem Solver** 📍 San Pedro, Laguna, Philippines | 🎂 Born: Oct 5, 2003
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0dcaf0?style=for-the-badge&logo=Web&logoColor=black)](https://portfolio-l2tt.onrender.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
