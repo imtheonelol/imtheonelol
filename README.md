@@ -66,7 +66,7 @@
 <strong>👨‍💻 Status:</strong> <span style="color: #00ff88;">● Online</span><br>
 <strong>🎯 Mission:</strong> Transforming coffee into code since 2003 ☕<br>
 <strong>💡 Passion:</strong> Building solutions that matter<br>
-<strong>🌟 Vibe:</strong> Full-stack developer with a Gundam obsession<br>
+<strong>🌟 Vibe:</strong> Full-stack developer<br>
 <br>
 <em>I am an enthusiastic technology student bringing strong problem-solving and critical thinking abilities to the table. I'm an effective communicator with a knack for teamwork and collaboration. As a quick learner, I am extremely eager to apply academic knowledge to practical scenarios in IT, and I am ready to contribute and grow in a supportive and innovative environment.</em>
 </samp>
