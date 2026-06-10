@@ -1,16 +1,17 @@
+<!-- 🎮 TETRIS BACKGROUND ANIMATION START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=wave&color=auto&height=130&section=header&text=%20Welcome%20to%20My%20Universe%20&fontSize=50&fontColor=ffffff&animation=twinkling&align=center">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=wave&color=auto&height=130&section=header&text=%20Welcome%20to%20My%20Universe%20&fontSize=50&fontColor=000000&animation=twinkling&align=center">
-  <img alt="Header Banner" src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=130&section=header&text=%20Welcome%20to%20My%20Universe%20&fontSize=50&fontColor=ffffff&animation=twinkling&align=center">
+  <source media="(prefers-color-scheme: dark)" srcset="./tetris-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./tetris-light.svg">
+  <img alt="Tetris Background" src="./tetris-dark.svg" style="width: 100%;">
 </picture>
 
 <div align="center">
 
-<!-- ✨ YOUR PROFILE PICTURE - ANIMATED & ENHANCED ✨ -->
+<!-- ✨ YOUR PROFILE PICTURE - ANIMATED NEON BORDER ✨ -->
 <div style="position: relative; display: inline-block;">
-  <div style="position: absolute; top: -5px; left: -5px; right: -5px; bottom: -5px; background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000); border-radius: 50%; animation: rainbow-spin 2s linear infinite;"></div>
-  <img src="image/myprofile.jpg" width="200" height="200" style="border-radius: 50%; border: 5px solid #0dcaf0; box-shadow: 0 0 30px rgba(13, 202, 240, 0.8), 0 0 60px rgba(13, 202, 240, 0.4); position: relative; z-index: 1; animation: pulse-glow 3s ease-in-out infinite;" alt="Richmond E. Arconado">
-  <div style="position: absolute; bottom: 10px; right: 10px; font-size: 40px; animation: bounce 2s infinite;">👋</div>
+  <img src="image/myprofile.jpg" width="220" height="220" style="border-radius: 50%; border: 6px solid #0dcaf0; box-shadow: 0 0 40px rgba(13, 202, 240, 0.9), 0 0 80px rgba(13, 202, 240, 0.5), inset 0 0 40px rgba(13, 202, 240, 0.3); position: relative; z-index: 2;" alt="Richmond E. Arconado">
+  <div style="position: absolute; bottom: 5px; right: 5px; font-size: 50px;">👋</div>
+  <div style="position: absolute; top: -10px; left: -10px; right: -10px; bottom: -10px; border-radius: 50%; border: 3px dashed #ff00ff; animation: spin 4s linear infinite; pointer-events: none;"></div>
 </div>
 
 # <kbd>`sys.init("Richmond_E._Arconado")`</kbd> 🚀
